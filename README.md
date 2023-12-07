@@ -15,5 +15,6 @@ Task 5 - Builder <br>
 <br>
 
 ## Task 6 - repository <br>
+Task 6 - Prototype <br>
 [Task 6](https://github.com/EDB999/Task6-Prototype) 
 <br>
