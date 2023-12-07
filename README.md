@@ -1,2 +1,2 @@
 # ProgramTech_NAVIGATOR
-Repository contains hyperlinks to other repsitories.
+Repository contains hyperlinks to other repositories.
