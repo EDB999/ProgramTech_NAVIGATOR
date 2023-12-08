@@ -5,7 +5,7 @@ Repository contains hyperlinks to other repositories. <br>
 Task 0 - Delegation <br>
 Task 1 - Abstact superclass <br>
 Task 2 - Factory method <br>
-[Task 1,2,3](https://github.com/EDB999/ProgramTech_JavaFX) 
+[Task 0,1,2](https://github.com/EDB999/ProgramTech_JavaFX) 
 <br>
 
 ## Task 4,5 -  repositories. <br>
