@@ -21,5 +21,5 @@ Task 6 - Prototype <br>
 
 ## Task 7 - repository <br>
 Task 7 - Observer <br>
-[Task](https://github.com/EDB999/Task7_Observer_SlideShapes)
+[Task 7](https://github.com/EDB999/Task7_Observer_SlideShapes)
 <br>
