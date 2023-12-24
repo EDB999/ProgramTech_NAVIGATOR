@@ -18,3 +18,8 @@ Task 5 - Builder <br>
 Task 6 - Prototype <br>
 [Task 6](https://github.com/EDB999/Task6-Prototype) 
 <br>
+
+## Task 7 - repository <br>
+Task 7 - Observer <br>
+[Task](https://github.com/EDB999/Task7_Observer_SlideShapes)
+<br>
