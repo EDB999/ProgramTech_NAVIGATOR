@@ -23,3 +23,23 @@ Task 6 - Prototype <br>
 Task 7 - Observer <br>
 [Task 7](https://github.com/EDB999/Task7_Observer_SlideShapes)
 <br>
+
+## Task 8 - repository <br>
+Task 8 - Decorator <br>
+[Task 8](https://github.com/EDB999/Task8_Decorator)
+<br>
+
+## Task 14 - repository <br>
+Task 14 - ChainOfRespon <br>
+[Task 14](https://github.com/EDB999/Task14_ChainOfRespon)
+<br>
+
+## Task 17 - repository <br>
+Task 17 - Producer-Consumer <br>
+[Task 17](https://github.com/EDB999/Task17-Producer-Consumer-test)
+<br>
+
+## Task 8A - repository <br>
+Task 8A - DAO <br>
+[Task 8A](https://github.com/EDB999/Task8A_DAO_Statistics)
+<br>
