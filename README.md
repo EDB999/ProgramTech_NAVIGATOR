@@ -43,3 +43,9 @@ Task 17 - Producer-Consumer <br>
 Task 8A - DAO <br>
 [Task 8A](https://github.com/EDB999/Task8A_DAO_Statistics)
 <br>
+
+## TESTS - repository <br>
+Unit Tests - 13A Telegram_bot <br>
+[Tests](https://github.com/EDB999/Telegram_JUnit_Tests)
+<br>
+
